@@ -1,0 +1,11 @@
+{
+  "name": "event-kms",
+  "version": "1.0.0",
+  "description": "KMS Event Management System SMA Santa Maria",
+  "scripts": {
+    "dev": "php -S localhost:8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
